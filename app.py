@@ -17,7 +17,6 @@ def image_selected(idx):
         st.session_state.ranking_complete = True
     return True
 
-
 #
 ## Upload Images
 #
